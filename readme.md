@@ -22,8 +22,8 @@
 
 ## API Tersedia :
 * Auth :
-  - rest-auth/Login
-  - rest-auth/Registration
+  - [auth-login](http://194.31.53.36/rest-auth/login/)
+  - [auth-registration](http://194.31.53.36/rest-auth/registration/)
 
 * Data Default Router DRF :
   - [API Root](http://192.31.53.36/api/)
