@@ -20,8 +20,8 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # See https://docs.djangoproject.com/en/2.2/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-# SECRET_KEY = '5l1agajt8e!x%*u7algcn6(2q2^b!!=9kwq=7k(i(f-bf9h6#r'
-SECRET_KEY = os.environ.get('SECRET_KEY')
+SECRET_KEY = '5l1agajt8e!x%*u7algcn6(2q2^b!!=9kwq=7k(i(f-bf9h6#r'
+# SECRET_KEY = os.environ.get('SECRET_KEY')
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
@@ -156,3 +156,7 @@ MEDIA_ROOT = os.path.join(BASE_DIR, 'media/')
 
 ADMIN_SITE_HEADER = "PON BACKEND"
 ADMIN_SITE_INDEX = "Administrator"
+
+LOGIN_REDIRECT_URL = '/dashboard'
+LOGIN_URL = '/login'
+LOGOUT_REDIRECT_URL = '/login'

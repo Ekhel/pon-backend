@@ -13,7 +13,9 @@ urlpatterns = [
     path('summernote/', include('django_summernote.urls')),
     path('api/', include('pon.api.urls')),
     path("graphql", GraphQLView.as_view(graphiql=True, schema=schema)),
+    path('', include('pon.urls')),
 ]
+
 
 if settings.DEBUG:
     urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
