@@ -26,8 +26,8 @@
   - [auth-registration](http://194.31.53.36/rest-auth/registration/)
 
 * Data Default Router DRF :
-  - [API Root](http://192.31.53.36/api/)
-  - [API Kota, GET,POST,DELETE,PUT](http://192.31.53.36/api/kota/)
+  - [API Root](http://194.31.53.36/api/)
+  - [API Kota, GET,POST,DELETE,PUT](http://194.31.53.36/api/kota/)
   - [API Kuliner, GET,POST,DELETE,PUT](http://194.31.53.36/api/kuliner/)
   - [API Penginapan, GET,POST,DELETE,PUT](http://194.31.53.36/api/penginapan/)
   - [API Kamar, GET,POST,DELETE,PUT](http://194.31.53.36/api/kamar/)
