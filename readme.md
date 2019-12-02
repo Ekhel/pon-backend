@@ -18,11 +18,11 @@
   - [Requirements.txt](https://github.com/Ekhel/pon-backend/blob/master/requirements.txt)
 
 * Template :
-  - Default Django
+  - ThemeKit v2.0
 
 ----------------------------------------------------------------------
 
-## API Tersedia : (FOR Cloud VPS)
+## API Tersedia : (Cloud VPS)
 * Auth :
   - [auth-login](http://194.31.53.36/rest-auth/login/)
   - [auth-registration](http://194.31.53.36/rest-auth/registration/)
@@ -34,7 +34,7 @@
   - [API Penginapan, GET,POST,DELETE,PUT](http://194.31.53.36/api/penginapan/)
   - [API Kamar, GET,POST,DELETE,PUT](http://194.31.53.36/api/kamar/)
 
-## API Tersedia : (FOR Cloud Heroku)
+## API Tersedia : (Cloud Heroku)
 * Auth :
   - [auth-login](https://pon-backend.herokuapp.com/rest-auth/login/)
   - [auth-registration](https://pon-backend.herokuapp.com/rest-auth/registration/)
@@ -54,3 +54,4 @@
   - Buat Halaman Dashboard [Solved]
   - Buat Halaman Kota, Kuliner, Penginapan [Solved]
   - Deploy Ke Heroku
+
