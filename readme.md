@@ -48,9 +48,9 @@
 
 
 ## GraphQL Tersedia : [Graph Editor](https://pon-backend.herokuapp.com/graphql)
-  - Schema Kategori dan Penginapan
+  - Schema Kategori kuliner dan Tempat Kuliner
 
-  ```json
+  ```javascript
      {
       allKategori{
         idKk,
