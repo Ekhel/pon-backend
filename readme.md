@@ -46,6 +46,12 @@
   - [API Penginapan, GET,POST,DELETE,PUT](https://pon-backend.herokuapp.com/api/penginapan/)
   - [API Kamar, GET,POST,DELETE,PUT](https://pon-backend.herokuapp.com/api/kamar/)
 
+------------------------------------------------------------------------
+
+## GraphQL Tersedia : [Graph Editor](https://pon-backend.herokuapp.com/graphql/)
+  - Schema Kategori dan Penginapan
+
+------------------------------------------------------------------------
 
 ## Developement :
 * Minggu 12/1/2019
@@ -54,4 +60,10 @@
   - Buat Halaman Dashboard [Solved]
   - Buat Halaman Kota, Kuliner, Penginapan [Solved]
   - Deploy Ke Heroku
+
+* Selasa 3 Desember 2019
+  - Tambah Layout Kategori Kuliner [Solved]
+  - Tambah Layout Item Kuliner [Solved]
+  - Tambah Layout kategori Penginapan [Solved]
+  - Tambah Layout Item Kamar Pengiapanan [Solved]
 
