@@ -26,6 +26,7 @@
 * User Aktif Login Untuk Cek Token
 * Register untuk Generate Token
 
+
 ## API Tersedia : (Cloud VPS)
 * Auth :
   - [Login](http://194.31.53.36/rest-auth/login/)
@@ -40,8 +41,8 @@
 
 ## API Tersedia : (Cloud Heroku)
 * Auth :
-  - [auth-login](https://pon-backend.herokuapp.com/rest-auth/login/)
-  - [auth-registration](https://pon-backend.herokuapp.com/rest-auth/registration/)
+  - [Login](https://pon-backend.herokuapp.com/rest-auth/login/)
+  - [Register](https://pon-backend.herokuapp.com/rest-auth/registration/)
 
 * Data Default Router DRF :
   - [API Root](https://pon-backend.herokuapp.com/api/)
