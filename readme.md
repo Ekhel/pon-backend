@@ -22,10 +22,14 @@
 
 ----------------------------------------------------------------------
 
+## Cara Menggunakan API :
+* User Aktif Login Untuk Cek Token
+* Register untuk Generate Token
+
 ## API Tersedia : (Cloud VPS)
 * Auth :
-  - [auth-login](http://194.31.53.36/rest-auth/login/)
-  - [auth-registration](http://194.31.53.36/rest-auth/registration/)
+  - [Login](http://194.31.53.36/rest-auth/login/)
+  - [Register](http://194.31.53.36/rest-auth/registration/)
 
 * Data Default Router DRF :
   - [API Root](http://194.31.53.36/api/)
