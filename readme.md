@@ -46,7 +46,6 @@
   - [API Penginapan, GET,POST,DELETE,PUT](https://pon-backend.herokuapp.com/api/penginapan/)
   - [API Kamar, GET,POST,DELETE,PUT](https://pon-backend.herokuapp.com/api/kamar/)
 
-------------------------------------------------------------------------
 
 ## GraphQL Tersedia : [Graph Editor](https://pon-backend.herokuapp.com/graphql)
   - Schema Kategori dan Penginapan
