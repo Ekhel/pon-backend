@@ -1,0 +1,68 @@
+{% extends 'base/base_site.html' %}
+
+{% block content %}
+
+<div class="page-header">
+    <div class="row align-items-end">
+        <div class="col-lg-8">
+            <div class="page-header-title">
+                <i class="ik ik-inbox bg-blue"></i>
+                <div class="d-inline">
+                    <h5>Kuliner</h5>
+                    <span>Kategori<span>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-4">
+            <nav class="breadcrumb-container" aria-label="breadcrumb">
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item">
+                        <a href="../index.html"><i class="ik ik-home"></i></a>
+                    </li>
+                    <li class="breadcrumb-item">
+                        <a href="#">PON</a>
+                    </li>
+                    <li class="breadcrumb-item active" aria-current="page">Kategori Kuliner</li>
+                </ol>
+            </nav>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-12">
+        <div class="card">
+            <div class="card-header">
+                
+                <span class="center"><a href="#" class="btn btn-outline-primary" title="Tambah URL" type="button"><i class="ik ik-plus-circle"></i></a></span>
+            </div>
+            <div class="card-body">
+                <table id="order-table" class="table table-striped table-bordered">
+                    <thead>
+                        <tr>
+                            <th>ID</th>                 
+                            <th>Kategori</th>
+                            
+                            <th>Aksi</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for items in object_list %}
+                        <tr>
+                            <td>{{ items.id_kk }}</td>                        
+                            <td>{{ items.kategori }}</td>
+                            <td>
+                                <a href="#" class="small btn btn-info" title="Edit"><i class="ik ik-edit"></i></a>
+                                <a href="#" class="small btn btn-danger" title="Hapus"><i class="ik ik-trash"></i></a>
+                            </td>
+                        </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+{% endblock content %}

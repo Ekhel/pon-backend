@@ -130,21 +130,21 @@
                                 <div class="nav-lavel">ITEM DATA </div>
                                 
                                 <div class="nav-item has-sub">
-                                    <a href="#"><i class="ik ik-pie-chart"></i><span>Penginapan</span> <span class="badge badge-success">New</span></a>
+                                    <a href="#"><i class="ik ik-pie-chart"></i><span>Penginapan</span></a>
                                     <div class="submenu-content">
-                                        <a href="#" class="menu-item active">Kategori</a>
+                                        <a href="{% url 'kategori_penginapan' %}" class="menu-item">Kategori</a>
                                         <a href="{% url 'penginapan' %}" class="menu-item">Tempat</a>
-                                        <a href="#" class="menu-item">Kamar</a>
+                                        <a href="{% url 'item_kamar' %}" class="menu-item">Kamar</a>
                                         
                                     </div>
                                 </div>
                                 
                                 <div class="nav-item has-sub">
-                                    <a href="#"><i class="ik ik-pie-chart"></i><span>Kuliner</span> <span class="badge badge-success">New</span></a>
+                                    <a href="#"><i class="ik ik-pie-chart"></i><span>Kuliner</span></a>
                                     <div class="submenu-content">
-                                        <a href="#" class="menu-item active">Kategori</a>
+                                        <a href="{% url 'kategori_kuliner' %}" class="menu-item">Kategori</a>
                                         <a href="{% url 'kuliner' %}" class="menu-item">Tempat</a>
-                                        <a href="#" class="menu-item">Makanan</a>
+                                        <a href="{% url 'item_kuliner' %}" class="menu-item">Makanan</a>
                                         
                                     </div>
                                 </div>                                                           
