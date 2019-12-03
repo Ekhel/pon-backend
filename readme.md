@@ -48,7 +48,7 @@
 
 ------------------------------------------------------------------------
 
-## GraphQL Tersedia : [Graph Editor](https://pon-backend.herokuapp.com/graphql/)
+## GraphQL Tersedia : [Graph Editor](https://pon-backend.herokuapp.com/graphql)
   - Schema Kategori dan Penginapan
 
 ------------------------------------------------------------------------
