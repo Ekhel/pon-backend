@@ -50,6 +50,23 @@
 ## GraphQL Tersedia : [Graph Editor](https://pon-backend.herokuapp.com/graphql)
   - Schema Kategori dan Penginapan
 
+  ```json
+     {
+      allKategori{
+        idKk,
+        kategori,
+        kulinerSet{
+          idKuliner,
+          title,
+          latitude,
+          longitude,
+          jamBuka,
+          jamTutup
+        }
+      }
+    }
+  ```
+
 ------------------------------------------------------------------------
 
 ## Developement :
