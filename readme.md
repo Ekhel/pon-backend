@@ -1,7 +1,7 @@
 # PON Backend Administrator
 -------------------------------------------------------------------
 
-![PON](http://filemanager.bappeda.jayapurakab.go.id/repository/images/pon.png)
+![PON](https://photos.app.goo.gl/dNMbqGzvqLiKAEzK9)
 
 ## System :
 * Bahasa Utama :
