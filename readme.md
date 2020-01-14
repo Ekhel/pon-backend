@@ -1,7 +1,7 @@
 # PON Backend Administrator
 -------------------------------------------------------------------
 
-![PON](https://lh3.googleusercontent.com/cvi7TL-1kRNgirpHUkzrpxb7X80EdCOrq8t38yTRY3vqQMMgzHo3xk_QEArH7iqqZA6i5O6L5e5mn4Nq7sg0k9Y2edAAfBFph2j_0agfqpR2o-qe51eGF8dPYTOyrQJeEsNy8etA-UtcII6w2KD6x3qdRaPy-YSnOv1sZT7PvTLZ1i1tJvJXv1as9JITwzoCziExXwEunDFLFF1gOyZwlRQi5e9Yd5J8xVkzkF3O5bPbTspJ9_KCSR7k1Wl6mMlMST3vb_UMl9jLz3d48op_si5-X9jSjiMZg_VrZGiOPlHGdpyn-vk3dhdpay744V5fw3L1d5WFArLVIvBxqt4ngSkQCd5vn-2lL2Kmf1QR9zc1PMbTunfDvywP8UzVJM4uR7-lpRJ7bBACCT5RyxYkJDkW1TqT07VY4oPEKzyPhHcPkaYTAVBngth2_zJYV2fSaKgE-JgnldiJnqObQQcEUBnq27lS6W5SMKnLbTis6QyHjGDbyjFV9zAVyb9B-q_QdPO_v5OXMPsm3_Z5l1xtv1uTci7FlMbMG0vdMR1Zi_PTawZa5K3mt_HthoqxmpHjhQbWp27jpV9zEq-zMKM74ENf_NzKmjnBQgUMKcldaeBpwrhDKk9RaiAOU8fAsyElGw2Erecf-LvVfVbd8Ep2dWrM9geMCrqPyoyRv1q91jnpJN6ZS15qQag=w1830-h273-no)
+![Imgur](https://i.imgur.com/xcLQDfZ.png)
 
 ## System :
 * Bahasa Utama :
